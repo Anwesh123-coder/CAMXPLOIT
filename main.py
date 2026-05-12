@@ -46,10 +46,8 @@ BANNER = rf"""
   {Y}[⚠️] For educational & security research purposes only!{W}
 
   {B}VERSION{W}  = 2.0.2
-  {B}Made By{W}  = Spyboy
-  {B}Twitter{W}  = https://spyboy.in/twitter
-  {B}Discord{W}  = https://spyboy.in/Discord
-  {B}Github{W}   = https://github.com/spyboy-productions/CamXploit
+  {B}Made By{W}  = Anwesh123-coder
+  {B}Github{W}   = https://github.com/Anwesh123-coder/CamXploit
 """
 
 # Common ports used by IP cameras and CCTV devices
